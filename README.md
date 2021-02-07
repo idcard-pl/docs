@@ -1,4 +1,4 @@
-![Logotyp idcard.pl](https://logo.idcard.pl/1/cover.png)
+![Logotyp idcard.pl](https://logo.idcard.pl/2/cover.png)
 
 # Cel powstania projektu idcard.pl
 
